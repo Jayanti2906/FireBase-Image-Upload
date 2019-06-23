@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029229857133",
+    "firebase_url": "https://appfirebaseproject-97326.firebaseio.com",
+    "project_id": "appfirebaseproject-97326",
+    "storage_bucket": "appfirebaseproject-97326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029229857133:android:1a53b588b2745f16",
+        "android_client_info": {
+          "package_name": "com.jayanti.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029229857133-7ocft11900db96o0b55l9kl1ujda5hsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jayanti.imageupload",
+            "certificate_hash": "62c36a8a0e77c977c39fdb498c1e7a25b0412e5a"
+          }
+        },
+        {
+          "client_id": "1029229857133-olvr9sspfmn6eiihq1s8bhrr7re6v0sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRoF8g_bqBLN6gNc1joCV8njhs1mAMl_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029229857133-olvr9sspfmn6eiihq1s8bhrr7re6v0sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
